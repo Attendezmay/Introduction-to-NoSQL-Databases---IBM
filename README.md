@@ -3,6 +3,7 @@
 ## Getting Started with MongoDB
 
 ### Find the version of the server
-'''
+
+''' py
 db.version()
 '''
