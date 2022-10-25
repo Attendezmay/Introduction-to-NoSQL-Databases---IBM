@@ -4,4 +4,4 @@
 
 ### Find the version of the server
 
-\'db.version()\'
+\ ' db.version()\ '
