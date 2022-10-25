@@ -4,6 +4,4 @@
 
 ### Find the version of the server
 
-''' py
 db.version()
-'''
