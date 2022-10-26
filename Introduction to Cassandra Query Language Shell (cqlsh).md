@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@10.7.1/styles/default.min.css">
   </head>
   <body>
-    <h1>Hands-on Lab: Using the CQL Shell (cqlsh)</h1>
+    
     <center>
       <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0151EN-SkillsNetwork/labs/Cassandra/images/IDSNlogo.png" width="200" alt="skillsnetwork.ai logo">
     </center>
