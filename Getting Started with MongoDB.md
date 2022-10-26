@@ -333,6 +333,4 @@ db.landmarks.insert({<span class="hljs-attr">"name"</span>:<span class="hljs-str
       </tbody>
     </table>
     <p>Copyright (c) 2021 IBM Corporation. All rights reserved.</p>
-    <script>window.addEventListener('load', function() {
-snFaculty.inject();
-});
+   );
