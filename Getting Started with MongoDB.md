@@ -1,6 +1,4 @@
-# Getting Started with MongoDB
 
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
